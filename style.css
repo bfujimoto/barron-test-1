@@ -82,6 +82,7 @@ html {
 
 body {
 	background: #fff; /* Fallback for when there is no custom background color defined. */
+	margin: 40px;
 }
 
 article,
